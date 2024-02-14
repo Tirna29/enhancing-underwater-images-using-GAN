@@ -27,3 +27,14 @@
    images. We also need to specify the path to the generated images. Here is an example command:
    python measure_ssim_psnr.py --image-data "/path/to/EUVP/generated/images" --label-data "/path/to/EUVP/test_samples/GTr"
    
+#Reference
+@article{article,
+author = {Islam, Md Jahidul and Xia, Youya and Sattar, Junaed},
+year = {2020},
+month = {02},
+pages = {1-1},
+title = {Fast Underwater Image Enhancement for Improved Visual Perception},
+volume = {PP},
+journal = {IEEE Robotics and Automation Letters},
+doi = {10.1109/LRA.2020.2974710}
+}

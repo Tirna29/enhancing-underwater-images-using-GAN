@@ -27,7 +27,7 @@
    images. We also need to specify the path to the generated images. Here is an example command:
    python measure_ssim_psnr.py --image-data "/path/to/EUVP/generated/images" --label-data "/path/to/EUVP/test_samples/GTr"
    
-#Reference
+# Reference   
 @article{article,
 author = {Islam, Md Jahidul and Xia, Youya and Sattar, Junaed},
 year = {2020},

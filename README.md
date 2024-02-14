@@ -27,8 +27,3 @@
    images. We also need to specify the path to the generated images. Here is an example command:
    python measure_ssim_psnr.py --image-data "/path/to/EUVP/generated/images" --label-data "/path/to/EUVP/test_samples/GTr"
    
-
-# Best Model
-1. To check with the best model, it's provided in the model folder, use that as input to the inferences model in step 4
-   
-2. To view the generated images that gave the best results, check the inferences/50e folder.

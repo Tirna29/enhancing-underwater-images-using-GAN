@@ -4,8 +4,6 @@
 
 The EUVP dataset can be downloaded from [here](http://irvlab.cs.umn.edu/resources/euvp-dataset). It contains several sets of paired data and unpaired data of good and poor quality. 
 
-![data](../images/data.png)
-
 The folder structure is shown as follows:
 
 ```
